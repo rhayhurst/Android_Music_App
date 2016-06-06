@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">War Songs</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="song_wiki">
+        <item>https://en.wikipedia.org/wiki/When_the_Tigers_Broke_Free</item>
+        <item>https://en.wikipedia.org/wiki/The_Battle_of_New_Orleans</item>
+        <item>https://en.wikipedia.org/wiki/And_the_Band_Played_Waltzing_Matilda</item>
+        <item>https://en.wikipedia.org/wiki/La_Complainte_du_Partisan</item>
+        <item>https://en.wikipedia.org/wiki/Sam_Stone_(song)</item>
+        <item>https://en.wikipedia.org/wiki/Copperhead_Road</item>
+        <item>http://www.songfacts.com/detail.php?id=4631</item>
+        <item>https://en.wikipedia.org/wiki/Roland_the_Headless_Thompson_Gunner</item>
+        <item>https://en.wikipedia.org/wiki/With_God_on_Our_Side</item>
+        <item>https://en.wikipedia.org/wiki/Party_in_the_U.S.A.</item>
+    </string-array>
+
+    <string-array name="artist_wiki">
+        <item>https://en.wikipedia.org/wiki/Roger_Waters</item>
+        <item>https://en.wikipedia.org/wiki/Johnny_Horton</item>
+        <item>https://en.wikipedia.org/wiki/The_Pogues</item>
+        <item>https://en.wikipedia.org/wiki/City_of_Thieves_(novel)</item>
+        <item>https://en.wikipedia.org/wiki/John_Prine</item>
+        <item>https://en.wikipedia.org/wiki/Steve_Earle</item>
+        <item>https://en.wikipedia.org/wiki/Bright_Eyes_(band)</item>
+        <item>https://en.wikipedia.org/wiki/Lauren_O%27Connell</item>
+        <item>https://en.wikipedia.org/wiki/Bob_Dylan</item>
+        <item>https://en.wikipedia.org/wiki/Miley_Cyrus</item>
+    </string-array>
+
+    <string-array name="song_URL">
+        <item>https://www.youtube.com/watch?v=YKfwwlEcowk</item>
+        <item>https://www.youtube.com/watch?v=50_iRIcxsz0</item>
+        <item>https://www.youtube.com/watch?v=cZqN1glz4JY</item>
+        <item>https://www.youtube.com/watch?v=hs5hOhI4pEE</item>
+        <item>https://www.youtube.com/watch?v=Sl9ZkYViEIs</item>
+        <item>https://www.youtube.com/watch?v=xVaPwdgezWI</item>
+        <item>https://www.youtube.com/watch?v=Me85PztkYP0</item>
+        <item>https://www.youtube.com/watch?v=eZUQ2FdwIyY</item>
+        <item>https://www.youtube.com/watch?v=9TPW9P-fnIE</item>
+        <item>https://www.youtube.com/watch?v=IikEuzPINy4</item>
+    </string-array>
+
+    <string-array name="lyric_URL">
+        <item>http://www.azlyrics.com/lyrics/pinkfloyd/whenthetigersbrokefree.html</item>
+        <item>http://www.cowboylyrics.com/lyrics/classic-country/battle-of-new-orleans---johnny-horton-14929.html</item>
+        <item>http://www.pogues.com/Releases/Lyrics/LPs/RumSodomy/Waltzing.html</item>
+        <item>http://genius.com/Leonard-cohen-the-partisan-lyrics</item>
+        <item>http://www.azlyrics.com/lyrics/johnprine/samstone.html</item>
+        <item>http://www.azlyrics.com/lyrics/steveearle/johnnycomelately.html</item>
+        <item>http://www.azlyrics.com/lyrics/brighteyes/landlockedblues.html</item>
+        <item>http://www.azlyrics.com/lyrics/warrenzevon/rolandtheheadlessthompsongunner.html</item>
+        <item>http://bobdylan.com/songs/god-our-side/</item>
+        <item>http://www.azlyrics.com/lyrics/mileycyrus/partyintheusa.html</item>
+    </string-array>
+</resources>

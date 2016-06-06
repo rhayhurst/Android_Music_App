@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bob/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_4f8fcf4b6a9127e5a2b70a436c73738b74f2cc6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_f02f4bc6b6cdd50939bacdbc00e29790a236335f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3866ead3661d15fee49e0eda9956feba3c0158b0">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_51885704dc02542f10dfa07789e1f5670a464221/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="129cd2d6bd0a562efee50ff677fb360d4e1c4ae3">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_473fb6d404f82f8d689c77ea6598618cbf760442/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_740b70eac410cc3cfce2496b7282da5462517ff5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_3c7a70e471215a8dcaa605ea3c58a19fe59d9c26/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f2c0dbe7a6e27192065644744b94816e86e85857/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_d23b4a5dd57acda9b7add7f3ee486ce8ca8e36ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_aeadf8cc577fc76a1f016c7d215c74927912bce2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bob/Desktop/War Songs/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/bob/Desktop/War Songs/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_cb8452ebf7f738e3e57527d12b6b0b4c2ab6d3a6/classes.dex" />
+    </item>
+
+</items>
